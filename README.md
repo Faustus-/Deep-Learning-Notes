@@ -1,11 +1,11 @@
-# DeepLearningNotes
-notes on Ian Goodfellow's Deep Learning Textbook
+# Deep Learning
+Notes on Deep Learning textbook (Ian Goodfellow, Yoshua Bengio, Aaron Courville)
 
-### Chapter 1 Introduction
+### [Chapter 1 Introduction](https://github.com/Faustus-/DeepLearningNotes/blob/master/Chapter%201%20Introduction.pptx "Chapter 1")
 
-## Part I Applied Math and Machine Learning Basics
+## [Part I Applied Math and Machine Learning Basics](https://github.com/Faustus-/DeepLearningNotes/tree/master/Part%20I%20Applied%20Math%20and%20Machine%20Learning%20Basics "Part I")
 
-### Chapter 2 Linear Algebra
+### [Chapter 2 Linear Algebra](https://github.com/Faustus-/DeepLearningNotes/blob/master/Part%20I%20Applied%20Math%20and%20Machine%20Learning%20Basics/Chapter%202%20Linear%20Algebra.pptx "Chapter 2")
 
 ### Chapter 3 Probability and Information Theory
 
@@ -13,7 +13,7 @@ notes on Ian Goodfellow's Deep Learning Textbook
 
 ### Chapter 5 Machine Learning Basics
 
-## Part II Deep Networks Modern Practices
+## Part II Part II Deep Networks Modern Practices
 
 ### Chapter 6 Deep Feedforward Networks
 
